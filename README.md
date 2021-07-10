@@ -2,9 +2,9 @@
 task tracker app is an app developed using react to manage tasks 
 
 ##  features 
-add a task 
-delete a task 
-toggle a task to has a reminder or not
+* add a task 
+* delete a task 
+* toggle a task to has a reminder or not
 
 ## to run the project
 * install all project dependencies with `npm install`
